@@ -1,0 +1,8 @@
+001|Maira|Development|90000.0|10.0
+002|Hiba|Development|80000.0|20.0
+003|Hassan|Marketing|50000.0|10.0
+004|Sumaira|coding|70000.0|10.0
+005|Sajid Rafiq|Development|200000.0|10.0
+006|veju|accounts|50000.0|30.0
+007|Talal Riaz|Finance|1500000.0|10.0
+009|Moiz|Vibe Coding|20000.0|10.0
